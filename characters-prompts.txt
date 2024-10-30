@@ -1,0 +1,67 @@
+-- Mage:
+  - initial:
+    Create a basic 3D chest-up portrait of a young female elf mage in a style blending 
+    League of Legends and Fortnite. Despite the simplicity, convey her serene and wise 
+    personality. She has pale skin, large iridescent blue eyes, and long, flowing silver 
+    hair with pointed elf ears. She wears simple blue robes without intricate details. 
+    The background is a solid blue color. No logos or text. Lord of the Rings elf style 
+    with a mage hat.
+  
+  - final:
+    A basic 3D chest-up portrait of a young female elf mage, blending the styles of League 
+    of Legends, Fortnite, and Lord of the Rings elves. She has pale skin, large iridescent 
+    blue eyes, and long, flowing silver hair with pointed elf ears. Her expression is 
+    serene and wise, and she now wears a mage hat, with a tall, slightly curved brim that 
+    adds to her mystical appearance. She continues to wear traditional mage robes with 
+    flowing sleeves and subtle mystical patterns. The background remains a solid blue, 
+    keeping the focus on her magical look.
+
+-- Warlock:
+  - initial:
+    Create a basic 3D chest-up portrait of a male orc warlock in a style blending League 
+    of Legends and Fortnite. Even with a basic design, express his intense and brooding 
+    personality. He has dark green skin with a rough texture, glowing red eyes, and 
+    prominent tusks. He wears simple dark robes without ornate decorations. The background 
+    is a solid green color. No logos or text.
+  
+  - final:
+    A basic 3D chest-up portrait of a male orc warlock in a style blending League of 
+    Legends and Fortnite. He has dark green skin with a rough texture, glowing red eyes, 
+    and prominent tusks. He is wearing simple dark robes without ornate decorations. His 
+    expression conveys an intense and brooding personality. The background is a solid green 
+    color.
+
+-- Warrior:
+  - initial:
+    Create a basic 3D chest-up portrait of a male orc warlock in a style blending League 
+    of Legends and Fortnite. Even with a basic design, express his intense and brooding 
+    personality. He has dark green skin with a rough texture, glowing red eyes, and 
+    prominent tusks. He wears simple dark robes without ornate decorations. The background 
+    is a solid green color. No logos or text. Lord of the Rings type of dwarf.
+  
+  - final:
+    A basic 3D chest-up portrait of a male redheaded dwarf warrior inspired by the style 
+    of dwarves from Lord of the Rings, blended with League of Legends and Fortnite influences. 
+    He has the classic dwarf traits: a short, stocky build with a broad chest and muscular 
+    arms. His tanned skin is freckled, with sharp hazel eyes, fiery red hair, and a thick, 
+    well-groomed beard styled in a traditional dwarf fashion with braids and knots. He wears 
+    simple, sturdy plate armor with a rough and practical design, reflecting his warrior nature. 
+    The background is a solid red color, rendered in a more realistic style.
+
+-- Rogue:
+  - initial:
+    Create a basic 3D chest-up portrait of a young female human rogue with black hair in 
+    a style blending League of Legends and Fortnite. Despite the simplicity, convey her 
+    cunning and confident personality. She has a light tan complexion, piercing gray eyes, 
+    and short black hair styled simply. She wears plain dark leather armor designed for 
+    stealth, without extra accessories. The background is a solid yellow color. No logos 
+    or text. With rogue traits. Also must show a rogue attitude.
+  
+  - final:
+    A basic 3D chest-up portrait of a young female human rogue with black hair, blending 
+    the styles of League of Legends and Fortnite. She has a light tan complexion, piercing 
+    gray eyes, and short black hair styled simply. Her expression and pose convey a cunning 
+    and confident attitude, showing a classic rogue demeanor. She wears plain dark leather 
+    armor designed for stealth, with no extra accessories, but features rogue traits such 
+    as a hood, a few throwing knives strapped across her chest, and a hidden dagger. The 
+    background is a solid yellow color, keeping the focus on her rogue persona.
